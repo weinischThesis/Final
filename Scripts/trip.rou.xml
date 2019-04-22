@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vehicle id="428" depart="0.00" departSpeed="10.00">
+        <route edges="4900041#2"/>
+    </vehicle>
+    <vehicle id="429" depart="0.95" departSpeed="10.00">
+        <route edges="4900041#3"/>
+    </vehicle>
+    <vehicle id="430" depart="1.57" departSpeed="10.00">
+        <route edges="4900043"/>
+    </vehicle>
+    <vehicle id="431" depart="10.23" departSpeed="10.00">
+        <route edges="4900739#0"/>
+    </vehicle>
+    <vehicle id="432" depart="15.33" departSpeed="10.00">
+        <route edges="4900739#1"/>
+    </vehicle>
+    <vehicle id="433" depart="24.43" departSpeed="10.00">
+        <route edges="4900739#2"/>
+    </vehicle>
+    <vehicle id="434" depart="25.27" departSpeed="10.00">
+        <route edges="4900741"/>
+    </vehicle>
+    <vehicle id="435" depart="29.54" departSpeed="10.00">
+        <route edges="54105725"/>
+    </vehicle>
+    <vehicle id="436" depart="36.37" departSpeed="10.00">
+        <route edges="5445204#1"/>
+    </vehicle>
+    <vehicle id="437" depart="39.08" departSpeed="10.00">
+        <route edges="5445204#2"/>
+    </vehicle>
+    <vehicle id="438" depart="42.22" departSpeed="10.00">
+        <route edges="5445204#3"/>
+    </vehicle>
+    <vehicle id="439" depart="59.26" departSpeed="10.00">
+        <route edges="5931612"/>
+    </vehicle>
+    <vehicle id="441" depart="60.21" departSpeed="10.00">
+        <route edges="8364476"/>
+    </vehicle>
+    <vehicle id="442" depart="62.08" departSpeed="10.00">
+        <route edges="8402997"/>
+    </vehicle>
+    <vehicle id="443" depart="69.00" departSpeed="10.00">
+        <route edges="8402998#0"/>
+    </vehicle>
+    <vehicle id="444" depart="76.04" departSpeed="10.00">
+        <route edges="8402998#1"/>
+    </vehicle>
+    <vehicle id="445" depart="78.64" departSpeed="10.00">
+        <route edges="8402998#2"/>
+    </vehicle>
+    <vehicle id="446" depart="83.83" departSpeed="10.00">
+        <route edges="8402998#3"/>
+    </vehicle>
+    <vehicle id="447" depart="102.23" departSpeed="10.00">
+        <route edges="8403001"/>
+    </vehicle>
+    <vehicle id="448" depart="106.28" departSpeed="10.00">
+        <route edges="8403007"/>
+    </vehicle>
+    <vehicle id="449" depart="111.08" departSpeed="10.00">
+        <route edges="85355911#0"/>
+    </vehicle>
+    <vehicle id="450" depart="116.97" departSpeed="10.00">
+        <route edges="85355911#1"/>
+    </vehicle>
+    <vehicle id="451" depart="118.29" departSpeed="10.00">
+        <route edges="85355912"/>
+    </vehicle>
+    <vehicle id="452" depart="128.91" departSpeed="10.00">
+        <route edges="94344940#0"/>
+    </vehicle>
+    <vehicle id="453" depart="143.15" departSpeed="10.00">
+        <route edges="94344940#2"/>
+    </vehicle>
+    <vehicle id="454" depart="147.66" departSpeed="10.00">
+        <route edges="94344940#3"/>
+    </vehicle>
+    <vehicle id="455" depart="159.20" departSpeed="10.00">
+        <route edges="94344941"/>
+    </vehicle>
+    <vehicle id="456" depart="163.04" departSpeed="10.00">
+        <route edges="9643180"/>
+    </vehicle>
+</routes>
